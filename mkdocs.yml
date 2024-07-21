@@ -1,0 +1,43 @@
+# Project Information
+
+site_name: My Docs
+
+site_url: https://ZeriWang.github.io
+
+site_description: ZeriWang's personal blog
+
+site_author: ZeriWang
+
+repo_name: ZeriWang.github.io
+
+repo_url: https://github.com/ZeriWang/ZeriWang.github.io
+
+copyright: "Copyright 2024 Zeri Wang"
+
+# UI
+
+# MATERIAL theme
+theme:
+  name: material
+
+# Color
+  palette:
+    primary: 'Deep Purple'
+    accent: 'light blue'
+
+# Logo
+  logo: 'images/logo.svg'
+
+# Language
+  language: 'zh'
+
+# Fonts
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Navigation
+nav:
+  - Home: index.md
+  - User Guide: user-guide.md
+  - About: about.md
