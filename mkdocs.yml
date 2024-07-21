@@ -36,8 +36,4 @@ theme:
     text: 'Roboto'
     code: 'Roboto Mono'
 
-# Navigation
-nav:
-  - Home: index.md
-  - User Guide: user-guide.md
-  - About: about.md
+
